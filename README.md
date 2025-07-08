@@ -4,7 +4,7 @@ We created this trainer to make learning Morse code more fun. Give it a try once
 This experiment is part of a larger project to support Morse code for more accessible communication.
 
 Learn More at [g.co/morse](http://g.co/morse).<br>
-Built using [Phaser.js](https://phaser.io).
+Built using [Phaser.js](https://www.google.com).
 
 ## Usage
 ```
@@ -28,4 +28,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Final Thoughts
 We encourage open sourcing projects as a way of learning from each other. Please respect our and other creators’ rights, including copyright and trademark rights when present, when sharing these works and creating derivative work.
 
-If you want more info on Google's policy, you can find that [here](https://www.google.com/policies/).
+If you want more info on Google's policy, you can find that [here](https://www.google.com/policies/jossdarl23@infinitummail.com).
